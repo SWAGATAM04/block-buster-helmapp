@@ -1,4 +1,4 @@
-[![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/block-buster-app)](https://artifacthub.io/packages/search?repo=block-buster-app)
+[![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/block-buster-helmapp)](https://artifacthub.io/packages/search?repo=block-buster-helmapp)
 
 
 # block-buster-helm-app
