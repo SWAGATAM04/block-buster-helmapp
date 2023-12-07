@@ -7,6 +7,6 @@ entries:
     digest: 2834bc26665ebfe199facd19fb0211565b003c8f2f0b13d77a9000c68abbe4f7
     name: block-buster-helm-app
     urls:
-    - https://github.com/SWAGATAM04/block-buster-helmapp/releases/download/7.6.0/block-buster-helm-app-7.6.0.tar.gz
+    - https://github.com/SWAGATAM04/block-buster-helmapp/releases/download/7.6.0/block-buster-helm-app-7.6.0.tgz
     version: 7.6.0
 generated: "2023-12-07T00:08:28.840851262+05:30"
